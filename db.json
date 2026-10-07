@@ -1,0 +1,11 @@
+{
+  "usuarios": [
+    {
+      "nome": "joao pedro",
+      "telefone": "11953671970",
+      "email": "joaopedro@gmail.com",
+      "id": "Xn2B2RsDluY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
